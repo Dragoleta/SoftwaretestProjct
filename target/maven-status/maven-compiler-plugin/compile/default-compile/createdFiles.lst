@@ -1,9 +1,0 @@
-main/java/entidades/Card.class
-main/App.class
-main/java/negocio/CreditCardLogic.class
-main/java/repositorio/UserRepo.class
-main/java/repositorio/CardRepo.class
-main/test/CardTest.class
-main/java/negocio/UserLogic.class
-main/test/VerificationTest.class
-main/java/entidades/User.class
